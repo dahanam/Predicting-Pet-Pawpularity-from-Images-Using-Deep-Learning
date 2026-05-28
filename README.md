@@ -3,8 +3,7 @@
 An image regression project that predicts a continuous **Pawpularity score 
 (0–100)** directly from pet photos using pretrained deep learning models, 
 Grad-CAM interpretability, and performance improvement techniques.
-
-**Authors:** Dahana Moz Ruiz & Maria Santos Perez — Kean University  
+ 
 **Dataset:** [PetFinder.my Pawpularity Contest (Kaggle)](https://www.kaggle.com/competitions/petfinder-pawpularity-score)
 
 ---
